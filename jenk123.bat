@@ -1,0 +1,2 @@
+cd E:\Selenium10AMto1pm\Workspace10am\Selenium10am_proj
+java -cp E:\Selenium10AMto1pm\Workspace10am\Selenium10am_proj\jars\*;E:\Selenium10AMto1pm\Workspace10am\Selenium10am_proj\bin org.testng.TestNG E:\Selenium10AMto1pm\Workspace10am\Selenium10am_proj\teshnhbnprathibhaaaaaaaaaaaaa.xml

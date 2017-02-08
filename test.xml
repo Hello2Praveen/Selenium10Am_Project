@@ -1,0 +1,21 @@
+
+
+
+<suite name="Suite1"  >
+  
+  <test name="xyz" >
+  <classes>
+ 
+    <class name="testng.NewTest">
+      <methods>
+        <include name="f" />
+        <include name="af" />
+      </methods>
+    </class>
+ 
+  </classes>
+</test>
+  
+  
+  
+</suite>
